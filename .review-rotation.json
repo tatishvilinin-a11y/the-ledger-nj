@@ -1,0 +1,5 @@
+{
+  "published": ["BetMGM Casino", "Caesars Palace Online Casino", "DraftKings Casino", "Hard Rock Bet Casino"],
+  "queue": ["Golden Nugget Casino", "Resorts Casino", "Borgata Casino", "PointsBet Casino", "FanDuel Casino", "bet365 Casino"],
+  "notes": "Each run: take queue[0] as the operator to review. After successfully publishing its review, remove it from queue and append it to published, then commit that update to this file. If queue is empty, do not publish anything — instead stop and flag to the user that the rotation needs a new operator list."
+}
